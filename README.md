@@ -9,3 +9,10 @@ The House Price Prediction project uses machine learning and deep learning techn
 3. Batch Normalization: Stabilizes learning and accelerates training.
 4. RMAE Metric: Achieved a Root Mean Absolute Error (RMAE) of 45,000.
 5. Customizable: Easily adaptable to new datasets or additional features.
+
+# Technologies Used
+1. Programming Language: Python
+2. Deep Learning Framework: PyTorch
+3. Data Manipulation: Pandas, NumPy
+4. Visualization: Matplotlib, Seaborn
+5. Model Evaluation: Scikit-learn
