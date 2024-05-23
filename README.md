@@ -16,3 +16,17 @@ The House Price Prediction project uses machine learning and deep learning techn
 3. Data Manipulation: Pandas, NumPy
 4. Visualization: Matplotlib, Seaborn
 5. Model Evaluation: Scikit-learn
+
+# Dataset
+The dataset includes:
+
+1. Features: Size, location, year built, number of bedrooms/bathrooms, etc.
+2. Target Variable: House price.
+You can replace the dataset with your own. Ensure it is structured in a CSV file with clearly defined feature columns and a target column for the price.
+
+# Model Architecture
+1. Input Layer: Accepts both numerical and categorical features.
+2. Embedding Layers: For categorical features.
+3. Dense Layers: Fully connected layers with ReLU activation.
+4. Batch Normalization: Applied after each dense layer.
+5. Output Layer: Single neuron with linear activation for price prediction.
