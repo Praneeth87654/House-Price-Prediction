@@ -30,3 +30,7 @@ You can replace the dataset with your own. Ensure it is structured in a CSV file
 3. Dense Layers: Fully connected layers with ReLU activation.
 4. Batch Normalization: Applied after each dense layer.
 5. Output Layer: Single neuron with linear activation for price prediction.
+
+# Results
+1. Validation Accuracy: Consistently high across multiple datasets.
+2. Visualizations: Loss and metric curves provided during training.
